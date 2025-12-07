@@ -8,3 +8,41 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" href="index.css">
 </head>
+<body>
+<div id="outer">
+<header><div id="header-container"><div id="head-inner"><h1>偕楽園について</h1>
+<p class="description">ここでは偕楽園について説明します</p></div></div>
+</header>
+<div id="content-wrapper">
+<main>
+<div id="inner">
+<h2>目次</h2>
+<p>開花期について</p>
+<p>新着情報</p>
+<p>場所</p>
+<p>歴史</p>
+<h3>開花期について</h3>
+<p>開花時期とは植物が花を咲かせる期間のことです。つぼみが開いて花が咲き始める時期を指し、桜のように開花時期が毎年注目される植物もあります。﻿<a href="https://ibaraki-kairakuen.jp/release/">詳しくはここをご覧ください</a></p>
+<h3>新着情報</h3>
+<p>文章あれこれ</p>
+<h3>場所</h3>
+<p>文章あれこれ</p>
+<h3>歴史</h3>
+<p>文章あれこれ</p>
+</div>
+</main>
+<aside>
+<div id="middle-inner">
+<div class="side-title">menu</div>
+<div class="side">
+<ul>
+<li>記事ページへのリンク</li>
+<li>記事ページへのリンク</li>
+</ul>
+</div>
+</div>
+</aside>
+</div>
+<footer>© 2025 mede in kakurazaka</footer>
+</div></body>
+</html>
